@@ -4,4 +4,4 @@ Proyecto del Laboratorio 01 del curso.
 
 ## Autor
 
-Tu Nombre - Laboratorio 01
+Carlos Romario Sucasaire Torres - Laboratorio 01
